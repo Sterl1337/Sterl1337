@@ -2,22 +2,22 @@
 
 **Aspiring IT / Cybersecurity Professional · Home Lab Builder · Automation-Focused Problem Solver**
 
-I'm building my way into tech through hands-on projects, home labs, security tooling, and practical automation systems. My focus is simple: learn by building, document the work clearly, and turn real projects into real opportunities.
+I'm building my way into tech through hands-on projects, home labs, security tooling, and practical automation systems. My goal is simple: build real skills, document the work clearly, and turn that proof into an entry-level IT or cybersecurity opportunity.
 
 ## What I'm Focused On
 
-- Entry-level **IT Support**, **Help Desk**, and **Cybersecurity** opportunities
+- Entry-level **IT Support**, **Help Desk**, and **Cybersecurity** roles
 - Building practical projects that show troubleshooting, documentation, and technical growth
 - Learning through **home labs**, scripting, system testing, and workflow automation
-- Creating a public portfolio that reflects real effort, not filler
+- Creating a public portfolio that reflects real work instead of filler
 
-## Current Project Areas
+## What I'm Building
 
 - **Security tooling** — lightweight validation and visibility tools for safe testing and reporting
 - **Job-search automation** — AI-assisted workflow systems for evaluating roles and organizing applications
-- **Trading dashboards** — live-monitoring interfaces, diagnostics, and operator-focused visibility
 - **Python projects** — modular scripting, reporting, and automation
 - **Terminal-first workflows** — tools built around clarity, speed, and repeatability
+- **Home lab work** — growing practical experience in systems, networking, and support fundamentals
 
 ## Featured Repositories
 
@@ -31,7 +31,7 @@ Lightweight, non-destructive security checks for web services and infrastructure
 Learning-focused reconnaissance and security mapping project built around modular validation and readable output.
 
 ### [nexus-pulse-terminal](https://github.com/Sterl1337/nexus-pulse-terminal)
-Real-time trading command center for balances, orders, fills, PnL, diagnostics, and live bot observability.
+Terminal-based monitoring interface built around live operational visibility, diagnostics, and real-time workflow control.
 
 ## Tech I'm Working With
 
@@ -54,7 +54,7 @@ Real-time trading command center for balances, orders, fills, PnL, diagnostics, 
 
 ## Right Now
 
-I'm actively building my portfolio, strengthening my GitHub, and pushing toward my first entry-level tech role.
+I'm actively building my portfolio, improving my GitHub, and pushing toward my first entry-level tech role.
 
 ## Connect
 
