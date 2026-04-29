@@ -6,7 +6,7 @@ I'm building my way into tech through hands-on projects, home labs, security too
 
 ## What I'm Focused On
 
-- Entry-level **IT Support**, **Help Desk**, and **Cybersecurity** roles
+- Entry-level **SOC Analyst L1**, **Help Desk**, and **Cybersecurity** roles
 - Building practical projects that show troubleshooting, documentation, and technical growth
 - Learning through **home labs**, scripting, system testing, and workflow automation
 - Creating a public portfolio that reflects real work instead of filler
